@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    background-color: palevioletred;
+    width: 50rem;
+    left: 5px;
+}
+h1{
+    text-shadow: 2px 2px 4px rgba(255,255,255,0.3);
+    letter-spacing: 3px;
+}
+.col-md-6{
+    padding: 15px 25px;
+}
+.row-md-6{
+    padding: 15px 25px;
+}
+
+button{
+    width: 85%;
+    border-radius: 10px;
+    position: relative;
+    left: 8%;
+}
+.form-check-md-6{
+    padding: 10px;
+    position: relative;
+    left: 35%;
+}
+.flexCheckDefault{
+background-color: rgb(146, 146, 185);
+}
+p{
+    padding: 20px 20px;
+    position: relative;
+    left: 35%;
+}
